@@ -1,0 +1,3 @@
+yt_dlp
+img2pdf
+requests
